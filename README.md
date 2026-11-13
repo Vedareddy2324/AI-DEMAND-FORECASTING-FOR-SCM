@@ -1,4 +1,5 @@
 ## AI DEMAND FORECASTING FOR SCM
+🚀 **Live Demo:** https://ai-demand-forecasting-for-scm-ztgyxzbjky3puiyht5bwix.streamlit.app/
 ML model to forecast demand for 1000+ SKUs using XGBoost &amp; LSTM | Built with Supply Chain domain knowledge from Oracle Fusion SCM
 - Problem: In Oracle Fusion SCM, procurement fails because demand is guessed, not predicted.
 - Solution: Predict next 28 days demand using XGBoost vs LSTM.
